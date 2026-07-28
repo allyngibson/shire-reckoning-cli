@@ -12,6 +12,13 @@
 # I use this pipe with cowsay:
 #    python3 shire-reckoning.py | cowsay -f dragon
 # A fire-breathing dragon (very Tolkien!) tells you the date
+# Set up an alias in .bash_aliases like:
+#    alias shire="python3 shire-reckoning.py | cowsay -f dragon"
+# And you don't have to remember all that.
+
+# Allyn Gibson
+# July 28, 2026 / 8 Wedmath
+# allyngibson.com
 
 import datetime
 from datetime import date
