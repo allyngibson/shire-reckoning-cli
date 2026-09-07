@@ -25,7 +25,7 @@ The silly Linux command line utilty `cowsay` prints in the terminal an ASCII cow
 
 Cowsay comes with a dragon. _Two_ dragons, actually. One with a very alarmed cow.
 
-First I came up with a bash alias that would pipe `shire-reckoning.py`'s output into `cowsay`. Then I thought of a better option as it would add more variability, from a randomly chosen dragon to different phrases, in the output.
+First I came up with a bash alias that would pipe `shire-reckoning.py`'s output into `cowsay`. Its output is seen in the screenshot above. Then I thought of a better option as it would add more variability, from a randomly chosen dragon to different phrases, in the output.
 
 Linux Mint 5 came with a program called `mint-fortune`. It was a wrapper for `cowsay` that would pick a random cow and have it either _say_ or _think_ a random fortune. It was a bash script, simple enough to modify, and then I could have a random dragon (with or without cow) that would tell the current date in, variously, Hobbiton, Bywater, even Michel Delving.
 
