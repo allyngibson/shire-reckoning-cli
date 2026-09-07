@@ -1,4 +1,5 @@
-10 The original BASIC program, written in 1999 for the TRS-80 Color Computer 2
+95 REM The original BASIC program, written for the TRS-80 Color Computer 2
+96 REM The file I have is dated Febuary 12, 2000, but it may be older
 100 CLS
 110 GOSUB 1000
 120 GOSUB 2000
